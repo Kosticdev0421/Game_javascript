@@ -17,4 +17,4 @@ Lalitha Vadavalli
 
 ## Demo
 
-(Try This)[https://memorygame-lalitha.netlify.app/]
+[Demo](https://memorygame-lalitha.netlify.app/)
