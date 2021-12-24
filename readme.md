@@ -15,6 +15,6 @@ Finished game!
 ## Author
 Lalitha Vadavalli
 
-## Demo
+## Try this
 
 [Demo](https://memorygame-lalitha.netlify.app/)
